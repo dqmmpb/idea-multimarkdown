@@ -22,6 +22,8 @@ Setting up the project in Intellij IDEA
 * Use the run configurations to run the plugin and JUnit tests.
 * Use *Build > Prepare plugin for deployment* to generate the release package.
 
+  **!!! You need exclude `src/main/java/META-INF` from `Sources`.If not, may failed with `duplicate entry: META-INF/MANIFEST.MF` error**
+
 Note
 ----
 

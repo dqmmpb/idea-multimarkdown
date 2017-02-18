@@ -8,16 +8,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/META-INF" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="application" />
-    <orderEntry type="library" scope="TEST" name="kotlin-test" level="application" />
-    <orderEntry type="library" name="jfxrt" level="application" />
     <orderEntry type="library" name="asm-all-asm4" level="project" />
     <orderEntry type="library" name="commons-io-2.4" level="project" />
     <orderEntry type="library" name="parboiled-core-asm4" level="project" />
     <orderEntry type="library" name="parboiled-java-asm4" level="project" />
     <orderEntry type="library" name="pegdown-1.6.7" level="project" />
+    <orderEntry type="library" name="kotlin-test" level="project" />
   </component>
 </module>
